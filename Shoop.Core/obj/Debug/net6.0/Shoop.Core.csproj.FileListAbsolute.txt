@@ -1,0 +1,11 @@
+C:\Users\zeyne\OneDrive\Desktop\Shoop.App\Shoop.Core\bin\Debug\net6.0\Shoop.Core.deps.json
+C:\Users\zeyne\OneDrive\Desktop\Shoop.App\Shoop.Core\bin\Debug\net6.0\Shoop.Core.dll
+C:\Users\zeyne\OneDrive\Desktop\Shoop.App\Shoop.Core\bin\Debug\net6.0\Shoop.Core.pdb
+C:\Users\zeyne\OneDrive\Desktop\Shoop.App\Shoop.Core\obj\Debug\net6.0\Shoop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeyne\OneDrive\Desktop\Shoop.App\Shoop.Core\obj\Debug\net6.0\Shoop.Core.AssemblyInfoInputs.cache
+C:\Users\zeyne\OneDrive\Desktop\Shoop.App\Shoop.Core\obj\Debug\net6.0\Shoop.Core.AssemblyInfo.cs
+C:\Users\zeyne\OneDrive\Desktop\Shoop.App\Shoop.Core\obj\Debug\net6.0\Shoop.Core.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\OneDrive\Desktop\Shoop.App\Shoop.Core\obj\Debug\net6.0\Shoop.Core.dll
+C:\Users\zeyne\OneDrive\Desktop\Shoop.App\Shoop.Core\obj\Debug\net6.0\refint\Shoop.Core.dll
+C:\Users\zeyne\OneDrive\Desktop\Shoop.App\Shoop.Core\obj\Debug\net6.0\Shoop.Core.pdb
+C:\Users\zeyne\OneDrive\Desktop\Shoop.App\Shoop.Core\obj\Debug\net6.0\ref\Shoop.Core.dll
