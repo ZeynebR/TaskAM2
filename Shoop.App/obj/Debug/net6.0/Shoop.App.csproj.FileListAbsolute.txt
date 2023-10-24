@@ -16,3 +16,5 @@ C:\Users\zeyne\OneDrive\Desktop\Shoop.App\Shoop.App\obj\Debug\net6.0\refint\Shoo
 C:\Users\zeyne\OneDrive\Desktop\Shoop.App\Shoop.App\obj\Debug\net6.0\Shoop.App.pdb
 C:\Users\zeyne\OneDrive\Desktop\Shoop.App\Shoop.App\obj\Debug\net6.0\Shoop.App.genruntimeconfig.cache
 C:\Users\zeyne\OneDrive\Desktop\Shoop.App\Shoop.App\obj\Debug\net6.0\ref\Shoop.App.dll
+C:\Users\zeyne\OneDrive\Desktop\Shoop.App\Shoop.App\bin\Debug\net6.0\Shoop.Service.dll
+C:\Users\zeyne\OneDrive\Desktop\Shoop.App\Shoop.App\bin\Debug\net6.0\Shoop.Service.pdb

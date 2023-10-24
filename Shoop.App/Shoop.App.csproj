@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Shoop.Core\Shoop.Core.csproj" />
+    <ProjectReference Include="..\Shoop.Service\Shoop.Service.csproj" />
   </ItemGroup>
 
 </Project>
