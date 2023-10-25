@@ -15,7 +15,7 @@ namespace Shoop.Service.Services.Implementations
             string Name=Console.ReadLine(); 
             Name= Name.ValidateString();    
             Console.WriteLine("Please add product price");
-            int.TryParse(Console.ReadLine(), out int price);
+            double.TryParse(Console.ReadLine(), out double price);
             Console.WriteLine("Please choose product category");
             Console.WriteLine($"1. {CategoryType.Meat}");
             Console.WriteLine($"2. {CategoryType.Vegetables}");
